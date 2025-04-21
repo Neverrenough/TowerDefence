@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c54fd1c2a3340e047bfce5c3e0552824, type: 3}
+  m_Name: ArcherTower
+  m_EditorClassIdentifier: 
+  m_Mode: 2
+  m_ProjectilePrefab: {fileID: 2080233964611549489, guid: 4da7fbf82ce5e6d459add406a64050be, type: 3}
+  m_RateOfFire: 0.5
+  m_EnergyUsage: 0
+  m_AmmoUsage: 0
+  m_LaunchSFX: {fileID: 0}
